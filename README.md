@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filip Koźlik</h1>
 <h3 align="center">Software Developer, Computer Science Student from Poland.</h3>
-https://sekvi99.github.io/website/
 
 - 🌱 I’m currently working with **C#, Angular, React, TypeScript, Python**
 
